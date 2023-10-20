@@ -7,4 +7,5 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]\
 [“Russia”, “Denmark”, “Kazan”] → []
 
-*Решение:*
+*Алгоритм*
+![Изображение](https://disk.yandex.ru/i/Sgo9wyUzRVf9tg)
